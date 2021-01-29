@@ -1,8 +1,9 @@
 # API secret keys
 api_keys.py
 
-# IDE
+# IDE and development testing script
 .idea
+test.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
