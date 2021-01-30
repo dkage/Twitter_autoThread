@@ -1,5 +1,6 @@
-# API secret keys
+# API and other sensitive data
 api_keys.py
+my_telegram_data.py
 
 # IDE and development testing script
 .idea
